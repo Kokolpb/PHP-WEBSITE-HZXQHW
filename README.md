@@ -3,11 +3,11 @@ README
 ===========================
 A complete enterprise website, including the Frontend and Backend admin page.  is uploaded in the repositories because of the end of the project/product life cycle. The code is for learning only and prohibits any business related behavior,website does not use any MVC/CMS framework, very suitable for beginners PHP study.
 
-PHP-WEBSITE-ELITEHOLDING  一个企业网站，包括前台后台，因为项目网站生命周期完结、并已经终止，整理到仓库中以做总结，代码仅供交流学习，禁止任何与商业有关的行为和其他不正当行为！
+PHP-WEBSITE-HZXQHW  一个企业网站，包括前台后台，因为项目网站生命周期完结、并已经终止，整理到仓库中以做总结，代码仅供交流学习，禁止任何与商业有关的行为和其他不正当行为！
 站点前后端未用任何MVC框架、未用任何第三方CMS系统，不存在复杂的一堆看不明白的代码，全程序均手写，非常适合PHP初学者入门。  
 
 ****
-![](https://github.com/Kokolpb/PHP-WEBSITE-ELITEHOLDING/blob/master/home.jpg)  
+![](https://github.com/Kokolpb/PHP-WEBSITE-HZXQHW/blob/master/home.jpg)  
 
 运行环境和下载地址 
 ===========================
